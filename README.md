@@ -1,0 +1,1 @@
+如果遇到工程报红，那么是测试QueryDsl 时找不到Quser， 需先执行mvn clean complie 动态 生成QUser
